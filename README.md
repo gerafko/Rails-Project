@@ -4,6 +4,6 @@
 
 Команда :
 
-[Горюнов Антон Дмитриевич](https://github.com/gerafko) - аналлитик
+[Горюнов Антон Дмитриевич](https://github.com/gerafko) - аналитик
 
 [Киляков Данил Александрович](https://github.com/DanilKilyakov) - руководитель проекта
